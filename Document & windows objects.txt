@@ -19,7 +19,7 @@
               *Syntax:
                    window.property;
               *some property of window are below:
-                  //Closed: It holds a Boolean value that represents whether the window is closed or not.
-                  //History: It provides information on the URLs visited in the current window.
-                  //Location: It contains the URL of the current window.
-                  //Window: It returns the current window or frame.
+                  //Closed:         It holds a Boolean value that represents whether the window is closed or not.
+                  //History:        It provides information on the URLs visited in the current window.
+                  //Location:       It contains the URL of the current window.
+                  //Window:         It returns the current window or frame.
